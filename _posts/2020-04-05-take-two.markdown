@@ -2,7 +2,7 @@
 layout: post
 title:  "Take Two!"
 date:   2020-04-05 14:35:50 -0500
-categories: 101
+categories: uncategorized
 ---
 This is an attempt to publish a post that didn't come with the Jekyll setup.
 
